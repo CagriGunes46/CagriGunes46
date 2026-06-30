@@ -20,16 +20,6 @@ Yazılım Mühendisliği öğrencisiyim. Gömülü sistemler, otonom araçlar (�
 | **Gömülü Sistem & IoT** | `Arduino` `Raspberry Pi` `ESP32` |
 | **Kütüphaneler & Frameworks** | `OpenCV` `YOLOv8` `Ursina Engine` |
 | **Siber Güvenlik & Forensics** | `Metasploit` `Wireshark` `Linux` `CTF Challenges` |
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CagriGunes46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Çağrı's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagriGunes46&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
 ---
 
 ### 📸 Beni Takip Edin
