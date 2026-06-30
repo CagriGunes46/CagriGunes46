@@ -1,16 +1,37 @@
-## Hi there 👋
+# Selamlar, ben Çağrı! 👋
 
-<!--
-**CagriGunes46/CagriGunes46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım Mühendisliği öğrencisiyim. Gömülü sistemler, otonom araçlar (İHA/UAV), yapay zeka entegrasyonları ve siber güvenlik (CTF) alanlarında projeler geliştirmeyi, donanım ve yazılımı bir araya getirmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Şu Anda Ne Üzerinde Çalışıyorum?
+- 🛸 **İHA & Yer Kontrol İstasyonları:** MAVLink protokolü, AES-GCM veri şifreleme ve CustomTkinter tabanlı yer kontrol yazılımları geliştiriyorum.
+- 🤖 **Yapay Zeka & Görüntü İşleme:** YOLOv8 ve OpenCV tabanlı otonom radar sistemleri ile Ursina Engine üzerinde 3D simülasyon projeleri üretiyorum.
+- ⚙️ **Gömülü Sistemler:** Arduino, ESP32 ve Raspberry Pi ile donanım/sensör entegrasyonları yapıyorum.
+- 🌐 **Backend & Real-Time:** Node.js ve Socket.io kullanarak gerçek zamanlı sistemler ve oyun mimarileri kuruyorum.
+
+---
+
+### 🛠️ Teknolojiler ve Araçlar
+
+| Alan | Kullandığım Teknolojiler |
+| :--- | :--- |
+| **Programlama Dilleri** | `C` `C++` `Python`  |
+| **Gömülü Sistem & IoT** | `Arduino` `Raspberry Pi` `ESP32` |
+| **Kütüphaneler & Frameworks** | `OpenCV` `YOLOv8` `Ursina Engine` |
+| **Siber Güvenlik & Forensics** | `Metasploit` `Wireshark` `Linux` `CTF Challenges` |
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CagriGunes46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Çağrı's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagriGunes46&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 📸 Beni Takip Edin
+Profilime estetik bir dokunuş katmak ve yazılım süreçlerimi paylaşmak için içerikler üretiyorum:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/çağrı-güneş-520923388)
