@@ -24,4 +24,4 @@ Yazılım Mühendisliği öğrencisiyim. Gömülü sistemler, otonom araçlar (�
 
 ### 📸 Beni Takip Edin
 Profilime estetik bir dokunuş katmak ve yazılım süreçlerimi paylaşmak için içerikler üretiyorum:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/çağrı-güneş-520923388)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-g%C3%BCne%C5%9F-520923388/)
