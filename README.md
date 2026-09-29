@@ -5,7 +5,6 @@ Yazılım Mühendisliği öğrencisiyim. Gömülü sistemler, otonom araçlar (�
 ---
 
 ### 🚀 Şu Anda Ne Üzerinde Çalışıyorum?
-- 🛸 **İHA & Yer Kontrol İstasyonları:** MAVLink protokolü, AES-GCM veri şifreleme ve CustomTkinter tabanlı yer kontrol yazılımları geliştiriyorum.
 - 🤖 **Yapay Zeka & Görüntü İşleme:** YOLOv8 ve OpenCV tabanlı otonom radar sistemleri ile Ursina Engine üzerinde 3D simülasyon projeleri üretiyorum.
 - ⚙️ **Gömülü Sistemler:** Arduino, ESP32 ve Raspberry Pi ile donanım/sensör entegrasyonları yapıyorum.
 - 🌐 **Backend & Real-Time:** Node.js ve Socket.io kullanarak gerçek zamanlı sistemler ve oyun mimarileri kuruyorum.
