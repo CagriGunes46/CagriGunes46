@@ -1,6 +1,6 @@
 # Selamlar, ben Çağrı! 👋
 
-Yazılım Mühendisliği öğrencisiyim. Gömülü sistemler, otonom araçlar (İHA/UAV), yapay zeka entegrasyonları ve siber güvenlik (CTF) alanlarında projeler geliştirmeyi, donanım ve yazılımı bir araya getirmeyi seviyorum.
+Yazılım Mühendisliği öğrencisiyim. Gömülü sistemler, yapay zeka entegrasyonları ve siber güvenlik (CTF) alanlarında projeler geliştirmeyi, donanım ve yazılımı bir araya getirmeyi seviyorum.
 
 ---
 
